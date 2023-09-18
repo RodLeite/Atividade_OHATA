@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Atividade_OHATA</title>
 </head>
 <body>
 
