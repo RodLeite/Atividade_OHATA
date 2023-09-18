@@ -36,24 +36,24 @@
       <p>Este arquivo contém o banco de dados da locadora.</p>
       <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/f1aaeb95-a200-4a49-bba9-e6984294f0f2">
 
-    </li>
-    <li>
-      <h3>Pet_Shop</h3>
-      <p>Este arquivo contém o banco de dados do pet shop.</p>
+</li>
+<li>
+<h3>Pet_Shop</h3>
+<p>Este arquivo contém o banco de dados do pet shop.</p>
  <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/5ef0a312-0963-4150-be68-a57864c14dde">
 
-    </li>
-    <li>
-      <h3>Supermercado</h3>
-      <p>Este arquivo contém o banco de dados do supermercado.</p>
+  </li>
+  <li>
+  <h3>Supermercado</h3>
+  <p>Este arquivo contém o banco de dados do supermercado.</p>
   <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/a22e921e-8d1d-4baf-a124-abab21095a9d">
       
-    </li>
-    <li>
-      <h3>Videoteca</h3>
-      <p>Este arquivo contém o banco de dados da videoteca.</p>
+  </li>
+  <li>
+  <h3>Videoteca</h3>
+  <p>Este arquivo contém o banco de dados da videoteca.</p>
   <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/3529e649-b6fd-4cb3-a877-c60ac1dd8bb8">
-    </li>
+  </li>
   </ol>
 
 </body>
