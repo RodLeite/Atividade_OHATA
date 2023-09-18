@@ -25,7 +25,6 @@
     <li>
       <h3>Colaboradores</h3>
       <p>Este arquivo contém os dados dos colaboradores da empresa.</p>
-      <img src="https://example.com/imagem-biblioteca.png">
     </li>
     <li>
       <h3>Games</h3>
@@ -41,12 +40,13 @@
     <li>
       <h3>Pet_Shop</h3>
       <p>Este arquivo contém o banco de dados do pet shop.</p>
-      <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/eeee4b60-d55a-404f-88d0-22157aea9c6e">
+      <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/3ffe406b-cd8f-4aee-943e-659d7d868209">
     </li>
     <li>
       <h3>Supermercado</h3>
       <p>Este arquivo contém o banco de dados do supermercado.</p>
       <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/a22e921e-8d1d-4baf-a124-abab21095a9d">
+      
     </li>
     <li>
       <h3>Videoteca</h3>
