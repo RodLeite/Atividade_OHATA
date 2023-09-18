@@ -40,7 +40,8 @@
     <li>
       <h3>Pet_Shop</h3>
       <p>Este arquivo contém o banco de dados do pet shop.</p>
-      <img src="https://github.com/RodLeite/Atividade_OHATA/assets/56495160/3ffe406b-cd8f-4aee-943e-659d7d868209">
+[PetShopMER_Rodrigo](https://github.com/RodLeite/Atividade_OHATA/assets/56495160/5ef0a312-0963-4150-be68-a57864c14dde)
+
     </li>
     <li>
       <h3>Supermercado</h3>
